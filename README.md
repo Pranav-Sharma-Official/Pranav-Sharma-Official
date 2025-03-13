@@ -13,7 +13,7 @@ I’m currently working on:<br>🚀 Leading CyberGuardians, my college's cyberse
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake animation" />
 
 ###
 
