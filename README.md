@@ -7,13 +7,13 @@ I’m currently working on:<br>🚀 Leading CyberGuardians, my college's cyberse
 
 <div align="center">
   <a href="https://open.spotify.com/user/31pz42moanit3baehbdw2bebb7yy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pz42moanit3baehbdw2bebb7yy&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pz42moanit3baehbdw2bebb7yy&count=5&unique=false" alt="Spotify Recently Played"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake Animation" />
 
 ###
 
@@ -32,6 +32,3 @@ I’m currently working on:<br>🚀 Leading CyberGuardians, my college's cyberse
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pranav.sharma) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
