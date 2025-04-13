@@ -3,7 +3,7 @@ I’m currently working on:<br>🚀 Head Volunteering Cyber Guardians, my colleg
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav44sharma44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-pranav--sharma-) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pranav__sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:job.pranav.sharma@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav44sharma44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-pranav--sharma-) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pranav__sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:job.pranav.sharma@gmail.com) [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/pranav.sharma01) 
 
 <div align="center">
   <a href="https://open.spotify.com/user/31pz42moanit3baehbdw2bebb7yy">
