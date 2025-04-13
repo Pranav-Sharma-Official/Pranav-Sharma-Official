@@ -100,7 +100,7 @@ Fun fact:<br>
 
 ## 📈 Total Visitors
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F&label=Visitors&labelColor=%235e5c64&countColor=%23f9c80e&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F&label=Visitors&labelColor=%235e5c64&countColor=%23f9c80e)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F)
 
 ---
 
