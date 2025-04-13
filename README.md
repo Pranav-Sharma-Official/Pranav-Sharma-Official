@@ -2,7 +2,7 @@
 I’m currently working on:<br>🚀 Head Volunteering Cyber Guardians, my college's cybersecurity community.<br>🛡️ Developing skills in cybersecurity and ethical hacking.<br><br>I’m looking to collaborate on:<br>🔐 Cybersecurity projects, ethical hacking, and penetration testing.<br>🐍☕ Open-source projects related to Python and Java.<br><br>I’m looking for help with:<br>🎯 Improving my red teaming and offensive security skills.<br>⚡ Advanced C programming concepts and optimizations.<br><br>I’m currently learning:<br>💻 Advanced C programming and DSA.<br>🕵️ Deepening my expertise in ethical hacking and cybersecurity.<br><br>Ask me about:<br>🛡️ Cybersecurity, ethical hacking, and red teaming.<br>🏆 How to prepare for competitive coding and hackathons.<br><br>Fun fact:<br>🕶️ I enjoy breaking things to understand how they work (ethically, of course!).<br>🎨 I once turned a 2D image into a 3D model in a Hackathon!<br>📢 I'm the class representative, but I still love coding more than meetings!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:job.pranav.sharma@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-pranav--sharma-) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav44sharma44) [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/pranav.sharma01)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pranav__sharma) 
 
@@ -25,7 +25,7 @@ I’m currently working on:<br>🚀 Head Volunteering Cyber Guardians, my colleg
 ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-Sharma-Official&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Sharma-Official&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
