@@ -17,7 +17,7 @@ I’m currently working on:<br>🚀 Head Volunteering Cyber Guardians, my colleg
 
 ---
 
-###
+# My Commits:
 
 <img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake Animation" />
 
@@ -43,7 +43,7 @@ I’m currently working on:<br>🚀 Head Volunteering Cyber Guardians, my colleg
 ---
 
 # 📈 Total Visitors:
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F&label=204&countColor=%23f47373&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F) 
+[![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F&label=Visitors&countColor=%23879199&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F)
 
 ---
 
