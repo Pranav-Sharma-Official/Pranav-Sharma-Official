@@ -29,7 +29,7 @@ I’m currently working on:<br>🚀 Head Volunteering Cyber Guardians, my colleg
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranav-Sharma-Official&icon=10&color=13)](https://visitcount.itsvg.in)
+[![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F&label=204&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpranav-sharma-official%2F) 
 
 ### 💰 You can help me by Donating
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PranavSharmaOfficial)
