@@ -63,7 +63,7 @@ Fun fact:<br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
+![XML](https://img.shields.io/badge/xml-%23e44d26.svg?style=plastic&logo=xml&logoColor=white)
 
 ---
 
