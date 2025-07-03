@@ -79,9 +79,7 @@ Fun fact:<br>
 
 <img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake animation showing contribution graph eating up dots" />
 
-## My Leetcard
-
-### 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/_Pranav_Sharma_?theme=dark&ext=contest)](https://leetcode.com/_Pranav_Sharma_/)
 
 ---
