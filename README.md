@@ -50,8 +50,8 @@ Fun fact:
 
 ## 🚀 Featured Projects
 
-* 🎬 **Go-Movies-CRUD** — RESTful CRUD API built with Golang, tested using Postman
-* 🌐 **Go Simple Web Server** — HTTP server serving static files and handling form data
+* 🎬 [**Go-Movies-CRUD**](https://github.com/Pranav-Sharma-Official/go-movies-crud) — RESTful CRUD API built with Golang, tested using Postman.
+* 🌐 [**Go Simple Web Server**](https://github.com/Pranav-Sharma-Official/go-simple-web-server) — HTTP server serving static files and handling form data.
 
 > Check out my [pinned repositories](https://github.com/Pranav-Sharma-Official?tab=repositories) for more backend projects.
 
@@ -79,6 +79,12 @@ Fun fact:
 ![](https://github-readme-stats.vercel.app/api?username=Pranav-Sharma-Official\&theme=transparent\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-Sharma-Official\&theme=transparent\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Sharma-Official\&theme=transparent\&hide_border=false\&layout=compact)
+
+---
+
+## 🐍 My Contributions Snake 
+
+<img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake animation showing contribution graph eating up dots" />
 
 ---
 
