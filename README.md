@@ -84,19 +84,31 @@ Fun fact:
 
 ## 🐍 My Contributions Snake 
 
-<img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake animation showing contribution graph eating up dots" />
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Pranav-Sharma-Official/Pranav-Sharma-Official/output/snake.svg" alt="Snake animation showing contribution graph eating up dots" />
+  
+</div>
 
 ---
 
 ## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/_Pranav_Sharma_?theme=dark\&ext=contest)](https://leetcode.com/_Pranav_Sharma_/)
+<div align="center">
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/_Pranav_Sharma_?theme=dark\&ext=contest)](https://leetcode.com/_Pranav_Sharma_/)
+  
+</div>
 
 ---
 
 ## ✍️ Dev Quote of the Day
 
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+
+</div>
 
 ---
 
