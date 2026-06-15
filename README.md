@@ -138,4 +138,4 @@ Fun fact:
 
 ---
 
-> 💡 **Current Focus:** Go + DSA + Backend Projects → Internships → Industry-ready Software Engineer
+> 💡 **Current Focus:** Java + DSA + Backend Projects → Internships → Industry-ready Software Engineer
