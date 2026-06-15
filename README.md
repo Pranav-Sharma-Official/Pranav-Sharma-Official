@@ -1,37 +1,40 @@
 # 👋 Hi there, I'm Pranav Sharma!
-
-### 💻 Backend Developer (Go) | 🎓 B.Tech CSE Student | 🚀 Aspiring Software Engineer
+💻 Java Backend Developer | 🎓 B.Tech CSE Student | 🚀 Aspiring Software Engineer
 
 ---
 
-## 💫 About Me
+💫 About Me
 
-I’m currently focused on **Core Computer Science and Backend Development**, with a strong emphasis on **Golang**, **DSA**, and **real-world backend projects**.
+I'm a Computer Science & Engineering student passionate about backend development, software engineering, and building practical, scalable applications. My primary focus is on Java backend development, REST APIs, object-oriented programming, and writing clean, maintainable code.
 
-I’m currently working on:
+I'm currently working on:
 
-* 🚀 Building **backend services and REST APIs using Golang**
-* 🧠 Strengthening **DSA & problem-solving skills**
-* 🛠 Creating **project-driven learning repositories** (not tutorial clones)
+* 🚀 Building backend applications and REST APIs using Java and Golang
+* 🧠 Strengthening my Data Structures & Algorithms and problem-solving skills
+* 🌍 Teaching programming to students worldwide through personalized one-on-one mentoring
+* 🛠 Developing real-world software projects and continuously improving my backend engineering expertise
 
-I’m looking to collaborate on:
+I'm looking to collaborate on:
 
-* 🔧 Backend projects (APIs, services, CRUD systems)
-* 🌐 Open-source projects related to **Go**, **backend systems**, or **developer tools**
+* 🔧 Java backend and REST API projects
+* 🌐 Open-source software and developer tools
+* 💾 Backend systems involving databases, CRUD operations, and scalable architectures
 
-I’m currently learning:
+I'm currently learning:
 
-* 💻 **Golang** (backend development, APIs)
-* 📊 **Data Structures & Algorithms**
-* 🗄️ Backend fundamentals (HTTP, REST, JSON, DB concepts)
+* ☕ Advanced Java Backend Development
+* 🏗️ Software Engineering best practices and backend architecture
+* 📊 Data Structures & Algorithms
+* 🗄️ Database design, SQL, and API development
 
 Ask me about:
 
-* Golang backend development
-* REST API design
-* DSA preparation & learning strategies
-* Project-based learning for software engineering
-
+* Java & Object-Oriented Programming
+* REST APIs and Backend Development
+* SQL & MySQL fundamentals
+* Git, Postman, and Linux workflows
+* Programming learning strategies and technical mentoring
+  
 Fun fact:
 
 * ☕ I enjoy building backend systems more than fancy UIs
