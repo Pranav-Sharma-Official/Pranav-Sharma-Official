@@ -60,34 +60,34 @@ Fun fact:
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-☕ Programming Languages
+### ☕ Programming Languages
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-"Go" (https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-"C" (https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
-"C++" (https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
-🚀 Backend Development
+### 🚀 Backend Development
 
-"REST API" (https://img.shields.io/badge/REST-API-success?style=plastic)
-"JDBC" (https://img.shields.io/badge/JDBC-Java-orange?style=plastic)
-"CRUD" (https://img.shields.io/badge/CRUD-Operations-blue?style=plastic)
-"JSON" (https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-success?style=plastic)
+![JDBC](https://img.shields.io/badge/JDBC-Java-orange?style=plastic)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-blue?style=plastic)
+![JSON](https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=white)
 
-🛠️ Tools & Platforms
+### 🛠️ Tools
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-🧠 Computer Science
+### 🧠 Core Concepts
 
-"OOP" (https://img.shields.io/badge/OOP-Object%20Oriented-blueviolet?style=plastic)
-"DSA" (https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=plastic)
+![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-blueviolet?style=plastic)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=plastic)
 
 ---
 
